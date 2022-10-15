@@ -8,10 +8,11 @@
   padding: 1em;
   font-size: 25px;
   @include c.small {
-    height: 80px;
+    height: 70px;
+    font-size: 22px;
     &__list {
       align-items: center;
-      gap: 50px;
+      gap: 45px;
       &:nth-child(3) {
         margin-right: 30px;
       }
