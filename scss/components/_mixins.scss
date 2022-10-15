@@ -1,0 +1,19 @@
+@use "../components/breakpoints" as bp;
+
+@mixin small {
+  @media screen and (min-width: bp.$breakPoint-small) {
+    @content;
+  }
+}
+
+@mixin medium {
+  @media screen and (min-width: bp.$breakPoint-medium) {
+    @content;
+  }
+}
+
+@mixin big {
+  @media screen and (min-width: bp.$breakPoint-big) {
+    @content;
+  }
+}
