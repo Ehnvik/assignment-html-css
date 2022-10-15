@@ -52,7 +52,7 @@
 110C:\Users\gusta\OneDrive\Dokument\medieinstitutet\assignment-html-css\node_modules\msgpackr-extract\binding.gyp133103199584248613 0
 127C:\Users\gusta\OneDrive\Dokument\medieinstitutet\assignment-html-css\node_modules\@parcel\reporter-cli\test\CLIReporter.test.js133103199588332755 0
 125C:\Users\gusta\OneDrive\Dokument\medieinstitutet\assignment-html-css\node_modules\@parcel\transformer-js\src\JSTransformer.js133103199585413312 0
-97C:\Users\gusta\OneDrive\Dokument\medieinstitutet\assignment-html-css\scss\components\_colors.scss133103346502099494 0
+97C:\Users\gusta\OneDrive\Dokument\medieinstitutet\assignment-html-css\scss\components\_colors.scss133103478761362767 0
 102C:\Users\gusta\OneDrive\Dokument\medieinstitutet\assignment-html-css\scss\components\_breakpoints.scss133103381398391041 0
 125C:\Users\gusta\OneDrive\Dokument\medieinstitutet\assignment-html-css\node_modules\csso\lib\restructure\prepare\specificity.js133103199591120769 0
 72C:\Users\gusta\OneDrive\Dokument\medieinstitutet\assignment-html-css\css133103427131793685 1
@@ -111,7 +111,7 @@
 166C:\Users\gusta\OneDrive\Dokument\medieinstitutet\assignment-html-css\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser-alias\nested.js133103199593970958 0
 117C:\Users\gusta\OneDrive\Dokument\medieinstitutet\assignment-html-css\node_modules\type-fest\source\tsconfig-json.d.ts133103199590794819 0
 117C:\Users\gusta\OneDrive\Dokument\medieinstitutet\assignment-html-css\node_modules\yaml\browser\dist\legacy-exports.js133103199584172588 0
-93C:\Users\gusta\OneDrive\Dokument\medieinstitutet\assignment-html-css\scss\layout\_navbar.scss133103474352780022 0
+93C:\Users\gusta\OneDrive\Dokument\medieinstitutet\assignment-html-css\scss\layout\_navbar.scss133103479272226509 0
 96C:\Users\gusta\OneDrive\Dokument\medieinstitutet\assignment-html-css\node_modules\terser\main.js133103199591846212 0
 101C:\Users\gusta\OneDrive\Dokument\medieinstitutet\assignment-html-css\node_modules\css-tree\lib\syntax133103199594307460 1
 119C:\Users\gusta\OneDrive\Dokument\medieinstitutet\assignment-html-css\node_modules\@parcel\transformer-html\package.json133103199586711632 0
