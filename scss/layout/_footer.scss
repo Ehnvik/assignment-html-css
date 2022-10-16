@@ -1,0 +1,40 @@
+@use "../components/" as c;
+
+.footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: c.$seconadaryBgColor;
+  color: c.$primaryColor;
+  font-size: 22px;
+  height: 60vh;
+
+  ul {
+    padding-left: 0;
+    align-items: center;
+    list-style: none;
+    width: 60%;
+    li {
+      padding-bottom: 10px;
+    }
+  }
+  &__social {
+    a {
+      color: c.$primaryColor;
+      text-decoration: none;
+      i {
+        font-size: 25px;
+      }
+    }
+    &--instagram {
+      padding-right: 10px;
+    }
+    &--twitter {
+      padding-right: 5px;
+    }
+    &--facebook {
+      padding-right: 15px;
+    }
+  }
+}
