@@ -8,15 +8,39 @@
   background-color: c.$seconadaryBgColor;
   color: c.$primaryColor;
   font-size: 22px;
-  height: 60vh;
+  height: 62vh;
+  @include c.small {
+    flex-direction: row;
+    height: 21vh;
+    justify-content: space-around;
+    align-items: start;
+    font-size: 20px;
+    @include c.medium {
+      font-size: 22px;
+    }
+  }
 
   ul {
     padding-left: 0;
     align-items: center;
     list-style: none;
     width: 60%;
+    @include c.small {
+      width: 33%;
+      margin-top: 4%;
+    }
+    @include c.medium {
+      margin-top: 3%;
+    }
     li {
-      padding-bottom: 10px;
+      padding-bottom: 15px;
+      @include c.small {
+        text-align: start;
+        padding-left: 10%;
+      }
+      @include c.medium {
+        padding-left: 20%;
+      }
     }
   }
   &__social {
