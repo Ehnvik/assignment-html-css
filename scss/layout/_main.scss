@@ -1,0 +1,48 @@
+@use "../components/" as c;
+
+.main {
+  margin: 20px 0px;
+  padding: 0px 20px;
+  &__title {
+    text-align: center;
+    font-size: 25px;
+  }
+  &__section {
+    display: flex;
+    flex-direction: column;
+    &__one {
+      &__container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        &__rakib {
+          &__img {
+            @include c.profile-img;
+          }
+        }
+        &__alexandra {
+          &__img {
+            @include c.profile-img;
+          }
+        }
+      }
+    }
+    &__two {
+      &__container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        &__lasse {
+          &__img {
+            @include c.profile-img;
+          }
+        }
+        &__sebastian {
+          &__img {
+            @include c.profile-img;
+          }
+        }
+      }
+    }
+  }
+}
