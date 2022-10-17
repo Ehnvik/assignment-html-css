@@ -1,0 +1,152 @@
+.hero {
+  height: 100%;
+  background-image: url("negative-space-black-forest-dawn.6c486d5d.jpg");
+  background-position: center;
+  background-size: cover;
+}
+
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.menu {
+  height: 50px;
+  background-color: #ffffffe6;
+  justify-content: end;
+  padding: 1em;
+  font-size: 24px;
+  display: flex;
+}
+
+@media screen and (min-width: 700px) {
+  .menu {
+    height: 80px;
+  }
+
+  .menu__list {
+    align-items: center;
+    gap: 50px;
+  }
+
+  .menu__list:nth-child(3) {
+    margin-right: 30px;
+  }
+}
+
+.menu #menu__toggle {
+  display: none;
+}
+
+#menu__toggle:checked + .menu__container .menu__container__button:before {
+  margin-top: 0;
+  transform: rotate(405deg);
+}
+
+#menu__toggle:checked + .menu__container .menu__container__button {
+  background: #fff0;
+}
+
+#menu__toggle:checked + .menu__container .menu__container__button:after {
+  margin-top: 0;
+  transform: rotate(-405deg);
+}
+
+.menu__container {
+  height: 100%;
+  width: 30px;
+  cursor: pointer;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  display: none;
+}
+
+.menu__container__button, .menu__container__button:before, .menu__container__button:after {
+  height: 4px;
+  width: 30px;
+  background-color: #fff;
+  border-radius: 2px;
+  transition: transform .4s cubic-bezier(.23, 1, .32, 1);
+  display: block;
+  position: absolute;
+}
+
+.menu__container__button:before {
+  content: "";
+  margin-top: -8px;
+}
+
+.menu__container__button:after {
+  content: "";
+  margin-top: 8px;
+}
+
+.menu__list {
+  flex-direction: row;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  display: flex;
+}
+
+.menu__list a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.menu__list a:hover {
+  text-decoration: underline;
+}
+
+@media (max-width: 700px) {
+  #menu__toggle ~ .menu__list li {
+    height: 0;
+    border: 0;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    transition: height .4s cubic-bezier(.23, 1, .32, 1);
+    display: flex;
+  }
+
+  #menu__toggle:checked ~ .menu__list li {
+    height: 2.5em;
+    margin: 0;
+    padding: 0;
+    transition: height .4s cubic-bezier(.23, 1, .32, 1);
+  }
+
+  .menu__container {
+    display: flex;
+  }
+
+  .menu__list {
+    width: 100%;
+    flex-direction: column;
+    margin-top: 50px;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+
+  .menu__list li {
+    width: 100%;
+    background-color: #222;
+    justify-content: center;
+    margin: 0 1rem;
+    padding: .5em 0;
+    display: flex;
+    overflow: hidden;
+  }
+
+  .menu__list li a {
+    color: #fff;
+  }
+}
+
+/*# sourceMappingURL=index.b2625c6b.css.map */
