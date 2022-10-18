@@ -2,7 +2,6 @@
 
 .hero {
   background-image: url(/assets/background-image/negative-space-black-forest-dawn.jpg);
-  height: 100%;
   background-position: center;
   background-size: cover;
   color: c.$primaryColor;
@@ -12,7 +11,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin-top: 50%;
+    margin-top: 25vh;
     padding: 0px 25px;
     @include c.small {
       margin-top: 17%;
@@ -23,6 +22,17 @@
     }
     &__text {
       padding: 0px 15px;
+    }
+  }
+  &__link-arrow {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: end;
+    height: 35vh;
+    &--icon {
+      color: c.$primaryColor;
+      margin-bottom: 2.5em;
     }
   }
 }

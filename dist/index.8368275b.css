@@ -1,5 +1,4 @@
 .hero {
-  height: 100%;
   color: #fff;
   text-align: center;
   background-image: url("negative-space-black-forest-dawn.6c486d5d.jpg");
@@ -11,7 +10,7 @@
 .hero__container {
   flex-direction: column;
   align-items: center;
-  margin-top: 50%;
+  margin-top: 25vh;
   padding: 0 25px;
   display: flex;
 }
@@ -31,9 +30,32 @@
   padding: 0 15px;
 }
 
+.hero__link-arrow {
+  height: 35vh;
+  flex-direction: row;
+  justify-content: center;
+  align-items: end;
+  display: flex;
+}
+
+.hero__link-arrow--icon {
+  color: #fff;
+  margin-bottom: 2.5em;
+}
+
 .main {
   margin: 20px 0;
   padding: 0 20px;
+}
+
+.main__link-arrow {
+  text-align: center;
+  margin-bottom: 25px;
+}
+
+.main__link-arrow--icon {
+  color: #000;
+  font-size: 25px;
 }
 
 .main__title {
@@ -269,6 +291,7 @@
 
 html, body {
   height: 100%;
+  scroll-behavior: smooth;
   margin: 0;
 }
 
