@@ -7,7 +7,7 @@
   height: 50px;
   padding: 1em;
   font-size: 25px;
-  @include c.small {
+  @include c.navbar {
     height: 70px;
     font-size: 22px;
     &__list {

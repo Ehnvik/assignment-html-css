@@ -6,47 +6,88 @@
   &__title {
     text-align: center;
     font-size: 25px;
+    @include c.small {
+      font-size: 30px;
+    }
   }
   &__section {
     display: flex;
     flex-direction: column;
     &__one {
+      @include c.small {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+      }
       &__container {
         display: flex;
         flex-direction: column;
         align-items: center;
+        @include c.small {
+          width: 50%;
+        }
         &__rakib {
           &__img {
             @include c.profile-img;
+            @include c.small {
+              max-height: 350px;
+              max-width: 350px;
+            }
           }
         }
         &__alexandra {
           &__img {
             @include c.profile-img;
+            @include c.small {
+              max-height: 350px;
+              max-width: 350px;
+            }
           }
         }
         &__info {
           @include c.profile-info;
+          @include c.small {
+            width: 65%;
+          }
         }
       }
     }
     &__two {
+      @include c.small {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+      }
       &__container {
         display: flex;
         flex-direction: column;
         align-items: center;
+        @include c.small {
+          width: 50%;
+        }
         &__lasse {
           &__img {
             @include c.profile-img;
+            @include c.small {
+              max-height: 350px;
+              max-width: 350px;
+            }
           }
         }
         &__sebastian {
           &__img {
             @include c.profile-img;
+            @include c.small {
+              max-height: 350px;
+              max-width: 350px;
+            }
           }
         }
         &__info {
           @include c.profile-info;
+          @include c.small {
+            width: 65%;
+          }
         }
       }
     }
