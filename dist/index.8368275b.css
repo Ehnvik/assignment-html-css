@@ -43,58 +43,58 @@
   margin-bottom: 2.5em;
 }
 
-.main {
+.about {
   margin: 20px 0;
   padding: 0 20px;
 }
 
-.main__link-arrow {
+.about__link-arrow {
   text-align: center;
   margin-bottom: 25px;
 }
 
-.main__link-arrow--icon {
+.about__link-arrow--icon {
   color: #000;
   font-size: 25px;
 }
 
-.main__title {
+.about__title {
   text-align: center;
   font-size: 25px;
 }
 
 @media screen and (min-width: 768px) {
-  .main__title {
+  .about__title {
     font-size: 30px;
   }
 }
 
-.main__section {
+.about__section {
   flex-direction: column;
   display: flex;
 }
 
 @media screen and (min-width: 768px) {
-  .main__section__one {
+  .about__section__one {
     flex-direction: row;
     justify-content: space-around;
     display: flex;
   }
 }
 
-.main__section__one__container {
+.about__section__one__container {
   flex-direction: column;
   align-items: center;
   display: flex;
 }
 
 @media screen and (min-width: 768px) {
-  .main__section__one__container {
+  .about__section__one__container {
     width: 50%;
   }
 }
 
-.main__section__one__container__rakib__img {
+.about__section__one__container__rakib__img {
   max-height: 250px;
   max-width: 250px;
   border-radius: 50%;
@@ -102,13 +102,13 @@
 }
 
 @media screen and (min-width: 768px) {
-  .main__section__one__container__rakib__img {
+  .about__section__one__container__rakib__img {
     max-height: 350px;
     max-width: 350px;
   }
 }
 
-.main__section__one__container__alexandra__img {
+.about__section__one__container__alexandra__img {
   max-height: 250px;
   max-width: 250px;
   border-radius: 50%;
@@ -116,13 +116,13 @@
 }
 
 @media screen and (min-width: 768px) {
-  .main__section__one__container__alexandra__img {
+  .about__section__one__container__alexandra__img {
     max-height: 350px;
     max-width: 350px;
   }
 }
 
-.main__section__one__container__info {
+.about__section__one__container__info {
   width: 85%;
   background-color: #d3d3d3;
   border-radius: 3%;
@@ -130,35 +130,35 @@
   padding: 1.1em 1.5em;
 }
 
-.main__section__one__container__info i {
+.about__section__one__container__info i {
   font-size: 2.5em;
 }
 
 @media screen and (min-width: 768px) {
-  .main__section__one__container__info {
+  .about__section__one__container__info {
     width: 65%;
   }
 
-  .main__section__two {
+  .about__section__two {
     flex-direction: row;
     justify-content: space-around;
     display: flex;
   }
 }
 
-.main__section__two__container {
+.about__section__two__container {
   flex-direction: column;
   align-items: center;
   display: flex;
 }
 
 @media screen and (min-width: 768px) {
-  .main__section__two__container {
+  .about__section__two__container {
     width: 50%;
   }
 }
 
-.main__section__two__container__lasse__img {
+.about__section__two__container__lasse__img {
   max-height: 250px;
   max-width: 250px;
   border-radius: 50%;
@@ -166,13 +166,13 @@
 }
 
 @media screen and (min-width: 768px) {
-  .main__section__two__container__lasse__img {
+  .about__section__two__container__lasse__img {
     max-height: 350px;
     max-width: 350px;
   }
 }
 
-.main__section__two__container__sebastian__img {
+.about__section__two__container__sebastian__img {
   max-height: 250px;
   max-width: 250px;
   border-radius: 50%;
@@ -180,13 +180,13 @@
 }
 
 @media screen and (min-width: 768px) {
-  .main__section__two__container__sebastian__img {
+  .about__section__two__container__sebastian__img {
     max-height: 350px;
     max-width: 350px;
   }
 }
 
-.main__section__two__container__info {
+.about__section__two__container__info {
   width: 85%;
   background-color: #d3d3d3;
   border-radius: 3%;
@@ -194,17 +194,17 @@
   padding: 1.1em 1.5em;
 }
 
-.main__section__two__container__info i {
+.about__section__two__container__info i {
   font-size: 2.5em;
 }
 
 @media screen and (min-width: 768px) {
-  .main__section__two__container__info {
+  .about__section__two__container__info {
     width: 65%;
   }
 }
 
-.footer {
+.contact {
   color: #fff;
   height: 62vh;
   background-color: #000;
@@ -216,7 +216,7 @@
 }
 
 @media screen and (min-width: 768px) {
-  .footer {
+  .contact {
     height: 21vh;
     flex-direction: row;
     justify-content: space-around;
@@ -226,12 +226,12 @@
 }
 
 @media screen and (min-width: 768px) and (min-width: 1000px) {
-  .footer {
+  .contact {
     font-size: 22px;
   }
 }
 
-.footer ul {
+.contact ul {
   width: 60%;
   align-items: center;
   padding-left: 0;
@@ -239,53 +239,53 @@
 }
 
 @media screen and (min-width: 768px) {
-  .footer ul {
+  .contact ul {
     width: 33%;
     margin-top: 4%;
   }
 }
 
 @media screen and (min-width: 1000px) {
-  .footer ul {
+  .contact ul {
     margin-top: 3%;
   }
 }
 
-.footer ul li {
+.contact ul li {
   padding-bottom: 15px;
 }
 
 @media screen and (min-width: 768px) {
-  .footer ul li {
+  .contact ul li {
     text-align: start;
     padding-left: 10%;
   }
 }
 
 @media screen and (min-width: 1000px) {
-  .footer ul li {
+  .contact ul li {
     padding-left: 20%;
   }
 }
 
-.footer__social a {
+.contact__social a {
   color: #fff;
   text-decoration: none;
 }
 
-.footer__social a i {
+.contact__social a i {
   font-size: 25px;
 }
 
-.footer__social--instagram {
+.contact__social--instagram {
   padding-right: 10px;
 }
 
-.footer__social--twitter {
+.contact__social--twitter {
   padding-right: 5px;
 }
 
-.footer__social--facebook {
+.contact__social--facebook {
   padding-right: 15px;
 }
 
