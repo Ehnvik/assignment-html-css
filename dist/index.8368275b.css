@@ -55,8 +55,20 @@
 .main__section__one__container__rakib__img, .main__section__one__container__alexandra__img {
   max-height: 250px;
   max-width: 250px;
-  border: 1px solid #000;
   border-radius: 50%;
+  box-shadow: 1px 0 20px #979595cc, 0 10px 5px #9795951a;
+}
+
+.main__section__one__container__info {
+  width: 85%;
+  background-color: #d3d3d3;
+  border-radius: 3%;
+  margin: 1.2em 0;
+  padding: 1.1em 1.5em;
+}
+
+.main__section__one__container__info i {
+  font-size: 2.5em;
 }
 
 .main__section__two__container {
@@ -68,8 +80,20 @@
 .main__section__two__container__lasse__img, .main__section__two__container__sebastian__img {
   max-height: 250px;
   max-width: 250px;
-  border: 1px solid #000;
   border-radius: 50%;
+  box-shadow: 1px 0 20px #979595cc, 0 10px 5px #9795951a;
+}
+
+.main__section__two__container__info {
+  width: 85%;
+  background-color: #d3d3d3;
+  border-radius: 3%;
+  margin: 1.2em 0;
+  padding: 1.1em 1.5em;
+}
+
+.main__section__two__container__info i {
+  font-size: 2.5em;
 }
 
 .footer {

@@ -25,6 +25,9 @@
             @include c.profile-img;
           }
         }
+        &__info {
+          @include c.profile-info;
+        }
       }
     }
     &__two {
@@ -41,6 +44,9 @@
           &__img {
             @include c.profile-img;
           }
+        }
+        &__info {
+          @include c.profile-info;
         }
       }
     }
