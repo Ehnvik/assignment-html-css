@@ -20,7 +20,7 @@
 88C:\Users\gusta\OneDrive\Dokument\medieinstitutet\assignment-html-css\node_modules\@lezer133103199567677167 1
 124C:\Users\gusta\OneDrive\Dokument\medieinstitutet\assignment-html-css\node_modules\svgo\plugins\removeUselessStrokeAndFill.js133103199593826054 0
 81C:\Users\gusta\OneDrive\Dokument\medieinstitutet\assignment-html-css\package.json133103205744993885 0
-73C:\Users\gusta\OneDrive\Dokument\medieinstitutet\assignment-html-css\dist133105928265328068 1
+73C:\Users\gusta\OneDrive\Dokument\medieinstitutet\assignment-html-css\dist133105949851273861 1
 105C:\Users\gusta\OneDrive\Dokument\medieinstitutet\assignment-html-css\node_modules\ordered-binary\index.js133103199577780732 0
 119C:\Users\gusta\OneDrive\Dokument\medieinstitutet\assignment-html-css\node_modules\caniuse-lite\data\features\streams.js133103199604678780 0
 79C:\Users\gusta\OneDrive\Dokument\medieinstitutet\assignment-html-css\.gitignore133104972838283775 0
@@ -42,7 +42,7 @@
 107C:\Users\gusta\OneDrive\Dokument\medieinstitutet\assignment-html-css\node_modules\resolve-from\package.json133103199576438482 0
 113C:\Users\gusta\OneDrive\Dokument\medieinstitutet\assignment-html-css\node_modules\caniuse-lite\data\regions\NF.js133103199602815697 0
 90C:\Users\gusta\OneDrive\Dokument\medieinstitutet\assignment-html-css\node_modules\chokidar133103205742016587 1
-79C:\Users\gusta\OneDrive\Dokument\medieinstitutet\assignment-html-css\index.html133105928264230463 0
+79C:\Users\gusta\OneDrive\Dokument\medieinstitutet\assignment-html-css\index.html133105931789015886 0
 84C:\Users\gusta\OneDrive\Dokument\medieinstitutet\assignment-html-css\scss\components133103196888891275 1
 110C:\Users\gusta\OneDrive\Dokument\medieinstitutet\assignment-html-css\node_modules\nth-check\lib\compile.js.map133103199580150449 0
 99C:\Users\gusta\OneDrive\Dokument\medieinstitutet\assignment-html-css\node_modules\csso\lib\index.js133103199589833295 0
@@ -90,7 +90,7 @@
 166C:\Users\gusta\OneDrive\Dokument\medieinstitutet\assignment-html-css\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser-alias\nested.js133103199593970958 0
 117C:\Users\gusta\OneDrive\Dokument\medieinstitutet\assignment-html-css\node_modules\type-fest\source\tsconfig-json.d.ts133103199590794819 0
 117C:\Users\gusta\OneDrive\Dokument\medieinstitutet\assignment-html-css\node_modules\yaml\browser\dist\legacy-exports.js133103199584172588 0
-93C:\Users\gusta\OneDrive\Dokument\medieinstitutet\assignment-html-css\scss\layout\_navbar.scss133105815614639636 0
+93C:\Users\gusta\OneDrive\Dokument\medieinstitutet\assignment-html-css\scss\layout\_navbar.scss133105949850247172 0
 96C:\Users\gusta\OneDrive\Dokument\medieinstitutet\assignment-html-css\node_modules\terser\main.js133103199591846212 0
 112C:\Users\gusta\OneDrive\Dokument\medieinstitutet\assignment-html-css\node_modules\mdn-data\css\types.schema.json133103199589644875 0
 119C:\Users\gusta\OneDrive\Dokument\medieinstitutet\assignment-html-css\node_modules\@swc\helpers\src\_read_only_error.mjs133103199597015621 0
@@ -108,7 +108,7 @@
 110C:\Users\gusta\OneDrive\Dokument\medieinstitutet\assignment-html-css\node_modules\msgpackr-extract\binding.gyp133103199584248613 0
 127C:\Users\gusta\OneDrive\Dokument\medieinstitutet\assignment-html-css\node_modules\@parcel\reporter-cli\test\CLIReporter.test.js133103199588332755 0
 125C:\Users\gusta\OneDrive\Dokument\medieinstitutet\assignment-html-css\node_modules\@parcel\transformer-js\src\JSTransformer.js133103199585413312 0
-97C:\Users\gusta\OneDrive\Dokument\medieinstitutet\assignment-html-css\scss\components\_colors.scss133105863352075012 0
+97C:\Users\gusta\OneDrive\Dokument\medieinstitutet\assignment-html-css\scss\components\_colors.scss133105945815239117 0
 102C:\Users\gusta\OneDrive\Dokument\medieinstitutet\assignment-html-css\scss\components\_breakpoints.scss133105901335152077 0
 125C:\Users\gusta\OneDrive\Dokument\medieinstitutet\assignment-html-css\node_modules\csso\lib\restructure\prepare\specificity.js133103199591120769 0
 101C:\Users\gusta\OneDrive\Dokument\medieinstitutet\assignment-html-css\node_modules\css-tree\lib\syntax133103199594307460 1
@@ -2820,7 +2820,7 @@
 113C:\Users\gusta\OneDrive\Dokument\medieinstitutet\assignment-html-css\node_modules\caniuse-lite\data\regions\EC.js133103199599176403 0
 112C:\Users\gusta\OneDrive\Dokument\medieinstitutet\assignment-html-css\node_modules\@parcel\core\lib\Validation.js133103199597453131 0
 108C:\Users\gusta\OneDrive\Dokument\medieinstitutet\assignment-html-css\node_modules\@parcel\core\src\worker.js133103199597521634 0
-84C:\Users\gusta\OneDrive\Dokument\medieinstitutet\assignment-html-css\dist\index.html133105928265328068 0
+84C:\Users\gusta\OneDrive\Dokument\medieinstitutet\assignment-html-css\dist\index.html133105931790296547 0
 113C:\Users\gusta\OneDrive\Dokument\medieinstitutet\assignment-html-css\node_modules\caniuse-lite\data\regions\EE.js133103199599186752 0
 122C:\Users\gusta\OneDrive\Dokument\medieinstitutet\assignment-html-css\node_modules\@parcel\transformer-js\native-browser.js133103199586877429 0
 113C:\Users\gusta\OneDrive\Dokument\medieinstitutet\assignment-html-css\node_modules\caniuse-lite\data\regions\EG.js133103199599196789 0
@@ -4358,8 +4358,8 @@
 97C:\Users\gusta\OneDrive\Dokument\medieinstitutet\assignment-html-css\node_modules\.bin\terser.cmd133103199611902883 0
 103C:\Users\gusta\OneDrive\Dokument\medieinstitutet\assignment-html-css\dist\Alexandra_Square.a526e90a.png133105919453871812 0
 109C:\Users\gusta\OneDrive\Dokument\medieinstitutet\assignment-html-css\dist\assignment-html-css.3464ddca.js.map133105919454343398 0
-92C:\Users\gusta\OneDrive\Dokument\medieinstitutet\assignment-html-css\dist\index.8368275b.css133105927117291482 0
-96C:\Users\gusta\OneDrive\Dokument\medieinstitutet\assignment-html-css\dist\index.8368275b.css.map133105927117314902 0
+92C:\Users\gusta\OneDrive\Dokument\medieinstitutet\assignment-html-css\dist\index.8368275b.css133105949851253203 0
+96C:\Users\gusta\OneDrive\Dokument\medieinstitutet\assignment-html-css\dist\index.8368275b.css.map133105949851273861 0
 119C:\Users\gusta\OneDrive\Dokument\medieinstitutet\assignment-html-css\dist\negative-space-black-forest-dawn.6c486d5d.jpg133105919456237889 0
 84C:\Users\gusta\OneDrive\Dokument\medieinstitutet\assignment-html-css\assets\profiles133103219357774720 1
 105C:\Users\gusta\OneDrive\Dokument\medieinstitutet\assignment-html-css\assets\profiles\Alexandra_Square.png133102309826558822 0
